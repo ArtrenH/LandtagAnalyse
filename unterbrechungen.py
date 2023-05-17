@@ -58,9 +58,9 @@ if __name__ == "__main__":
     extract_all_unterbrechungen()
 
 
-# ZWISCHENFRAGEN:
+    # ZWISCHENFRAGEN:
 
-dirs = os.listdir("data/content")
+    dirs = os.listdir("data/content")
 
-for file in dirs[:2]:
-    extract_zwischenfragen("data/content/", file, "Zwischenfrage")
+    for file in dirs[:2]:
+        extract_zwischenfragen("data/content/", file, "Zwischenfrage")

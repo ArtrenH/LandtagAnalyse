@@ -30,5 +30,4 @@ def stem_all() -> None:
       
 if __name__ == "__main__":
     stem_all()
-    #for elem in os.listdir("data/cleaned_content_stemmed"):
-    #    os.rename(f"data/cleaned_content_stemmed/{elem}", f"data/cleaned_content_stemmed/{elem[8:]}")
+

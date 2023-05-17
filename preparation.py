@@ -7,6 +7,7 @@ import time
 # DATA CLEANING -> remove stopwords and punctuation
 
 def clean_data() -> None:
+    os.makedirs("data/cleaned_content", exist_ok=True)
     stopwords_liste = ["staatsregierung", "landtag", "fuer", "koennen", "koennte", "ueber", "waehrend", "wuerde", "wuerden", "herr", "frau", "wer", "ueber", "heute", "ja", "nein", "beifall", "praesident", "vizepraesident", "linke", "gruene", "fdp", "cdu", "spd", "pds", "afd", "linksfraktion", "buendnisgruenen", "buendnisgruene", "damen", "herren", "bitte", "schon", "prof", "dr", "staatsminister", "januar", "februar", "maerz", "april", "mai", "juni", "juli", "august", "september", "oktober", "november", "dezember", "fraktion", "antrag", "gesetz", "drucksache"]
 
     for element in tqdm(os.listdir("raw_data/content")):
@@ -29,5 +30,4 @@ def clean_data() -> None:
 
 if __name__ == "__main__":
     clean_data()
-    #for elem in os.listdir("data/cleaned_content"):
-    #    os.rename(f"data/cleaned_content/{elem}", f"data/cleaned_content/{elem[8:]}")
+
