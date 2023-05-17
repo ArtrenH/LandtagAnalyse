@@ -1,4 +1,6 @@
 import json
+import os
+from tqdm import tqdm
 
 
 class JsonHandler():
@@ -7,7 +9,7 @@ class JsonHandler():
         self.name = self.filepath.split("/")[-1]
 
     def get_content(self) -> str:
-        with open(self.filename) as f:
+        with open(self.filepath) as f:
             return json.load(f)["content"]
 
     def extract_wahlperiode_json(self) -> str:
@@ -15,6 +17,21 @@ class JsonHandler():
     
     def extract_sitzungsnummer_json(self) -> str:
         return self.name.split("_")[2]
+
+def extract_contents():
+    os.makedirs("raw_data/content", exist_ok=True)
+    for wahlperiode in [f"wahlperiode-{i}" for i in range(1, 7+1)]:
+        for file in os.listdir(f"raw_data/json/{wahlperiode}"):
+            handler = JsonHandler(f"raw_data/json/{wahlperiode}/{file}")
+            with open(f"raw_data/content/inhalt_wahlperiode_{handler.extract_wahlperiode_json()}_{handler.extract_sitzungsnummer_json()}_.txt", "w+") as f:
+                f.write(handler.get_content())
+
+
+if __name__ == "__main__":
+    extract_contents()
+
+
+
 
 def extract_sitzungsnummer(name: str) -> str:
     return name.split("_")[3]
@@ -74,5 +91,4 @@ def remove_Ausschlussbegriffe(keywords_dict, ausschlussbegriffe_liste) -> None:
         for ausschlussbegriff in ausschlussbegriffe_liste:
             if ausschlussbegriff in item:
                 del keywords_dict[item]
-
 
