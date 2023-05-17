@@ -1,0 +1,3110 @@
+[
+    {
+        "name": "Ackermann",
+        "vorname": "Leonore",
+        "zusatz": "",
+        "sprechbeitraege": "93"
+    },
+    {
+        "name": "Adamczyk",
+        "vorname": "Uwe",
+        "zusatz": "",
+        "sprechbeitraege": "174"
+    },
+    {
+        "name": "Adler",
+        "vorname": "Peter",
+        "zusatz": "",
+        "sprechbeitraege": "223"
+    },
+    {
+        "name": "Albrecht",
+        "vorname": "Uwe",
+        "zusatz": "",
+        "sprechbeitraege": "167"
+    },
+    {
+        "name": "Altmann",
+        "vorname": "Elke",
+        "zusatz": "",
+        "sprechbeitraege": "148"
+    },
+    {
+        "name": "Anton",
+        "vorname": "Rico",
+        "zusatz": "",
+        "sprechbeitraege": "61"
+    },
+    {
+        "name": "Apfel",
+        "vorname": "Holger",
+        "zusatz": "",
+        "sprechbeitraege": "263"
+    },
+    {
+        "name": "Apostel",
+        "vorname": "Marie-Luise",
+        "zusatz": "",
+        "sprechbeitraege": "9"
+    },
+    {
+        "name": "Arnold",
+        "vorname": "Michael",
+        "zusatz": "",
+        "sprechbeitraege": "52"
+    },
+    {
+        "name": "Baier",
+        "vorname": "Klaus",
+        "zusatz": "",
+        "sprechbeitraege": "12"
+    },
+    {
+        "name": "Bandmann",
+        "vorname": "Volker",
+        "zusatz": "",
+        "sprechbeitraege": "460"
+    },
+    {
+        "name": "Barth",
+        "vorname": "André",
+        "zusatz": "",
+        "sprechbeitraege": "143"
+    },
+    {
+        "name": "Bartl",
+        "vorname": "Klaus",
+        "zusatz": "",
+        "sprechbeitraege": "755"
+    },
+    {
+        "name": "Baum",
+        "vorname": "Thomas",
+        "zusatz": "",
+        "sprechbeitraege": "73"
+    },
+    {
+        "name": "Baum",
+        "vorname": "Winfried",
+        "zusatz": "",
+        "sprechbeitraege": "13"
+    },
+    {
+        "name": "Baumann-Hasske",
+        "vorname": "Harald",
+        "zusatz": "",
+        "sprechbeitraege": "132"
+    },
+    {
+        "name": "Beermann",
+        "vorname": "Johannes",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "43"
+    },
+    {
+        "name": "Beger",
+        "vorname": "Mario",
+        "zusatz": "",
+        "sprechbeitraege": "87"
+    },
+    {
+        "name": "Bellmann",
+        "vorname": "Veronika",
+        "zusatz": "",
+        "sprechbeitraege": "43"
+    },
+    {
+        "name": "Besier",
+        "vorname": "Gerhard",
+        "zusatz": "Prof. Dr. Dr. Dr. h. c.",
+        "sprechbeitraege": "57"
+    },
+    {
+        "name": "Beyer",
+        "vorname": "Wolf-Dieter",
+        "zusatz": "",
+        "sprechbeitraege": "184"
+    },
+    {
+        "name": "Biedenkopf",
+        "vorname": "Kurt",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "131"
+    },
+    {
+        "name": "Bienst",
+        "vorname": "Lothar",
+        "zusatz": "",
+        "sprechbeitraege": "73"
+    },
+    {
+        "name": "Biesok",
+        "vorname": "Carsten",
+        "zusatz": "",
+        "sprechbeitraege": "167"
+    },
+    {
+        "name": "Binus",
+        "vorname": "Karl-Heinz",
+        "zusatz": "",
+        "sprechbeitraege": "18"
+    },
+    {
+        "name": "Binus",
+        "vorname": "Karl-Heinz",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "1"
+    },
+    {
+        "name": "Bläsner",
+        "vorname": "Norbert",
+        "zusatz": "",
+        "sprechbeitraege": "84"
+    },
+    {
+        "name": "Blattner",
+        "vorname": "Cornelia",
+        "zusatz": "",
+        "sprechbeitraege": "3"
+    },
+    {
+        "name": "Böhme",
+        "vorname": "Marco",
+        "zusatz": "",
+        "sprechbeitraege": "101"
+    },
+    {
+        "name": "Bolick",
+        "vorname": "Gunter",
+        "zusatz": "",
+        "sprechbeitraege": "62"
+    },
+    {
+        "name": "Bolick",
+        "vorname": "Gunter",
+        "zusatz": "Prof.",
+        "sprechbeitraege": "63"
+    },
+    {
+        "name": "Bonk",
+        "vorname": "Julia",
+        "zusatz": "",
+        "sprechbeitraege": "132"
+    },
+    {
+        "name": "Börner",
+        "vorname": "Eckhard",
+        "zusatz": "",
+        "sprechbeitraege": "15"
+    },
+    {
+        "name": "Böttger",
+        "vorname": "Martin",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "228"
+    },
+    {
+        "name": "Böttrich",
+        "vorname": "Heinz",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "10"
+    },
+    {
+        "name": "Bramke",
+        "vorname": "Werner",
+        "zusatz": "Prof.",
+        "sprechbeitraege": "100"
+    },
+    {
+        "name": "Bramke",
+        "vorname": "Werner",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "72"
+    },
+    {
+        "name": "Brangs",
+        "vorname": "Stefan",
+        "zusatz": "",
+        "sprechbeitraege": "278"
+    },
+    {
+        "name": "Braun",
+        "vorname": "Adolf",
+        "zusatz": "",
+        "sprechbeitraege": "2"
+    },
+    {
+        "name": "Bräunig",
+        "vorname": "Enrico",
+        "zusatz": "",
+        "sprechbeitraege": "131"
+    },
+    {
+        "name": "Breitenbuch",
+        "vorname": "Georg-Ludwig",
+        "zusatz": "von",
+        "sprechbeitraege": "118"
+    },
+    {
+        "name": "Bretschneider",
+        "vorname": "Ulrike",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "91"
+    },
+    {
+        "name": "Brückner",
+        "vorname": "Günther",
+        "zusatz": "",
+        "sprechbeitraege": "31"
+    },
+    {
+        "name": "Brüggen",
+        "vorname": "Georg",
+        "zusatz": "",
+        "sprechbeitraege": "8"
+    },
+    {
+        "name": "Brünler",
+        "vorname": "Nico",
+        "zusatz": "",
+        "sprechbeitraege": "107"
+    },
+    {
+        "name": "Buddeberg",
+        "vorname": "Sarah",
+        "zusatz": "",
+        "sprechbeitraege": "56"
+    },
+    {
+        "name": "Buttolo",
+        "vorname": "Albrecht",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "308"
+    },
+    {
+        "name": "Cagalj Sejdi",
+        "vorname": "Petra",
+        "zusatz": "",
+        "sprechbeitraege": "10"
+    },
+    {
+        "name": "Carlowitz",
+        "vorname": "Wilhelm",
+        "zusatz": "von",
+        "sprechbeitraege": "1"
+    },
+    {
+        "name": "Clauß",
+        "vorname": "Christine",
+        "zusatz": "",
+        "sprechbeitraege": "279"
+    },
+    {
+        "name": "Clauß",
+        "vorname": "Gisela",
+        "zusatz": "",
+        "sprechbeitraege": "31"
+    },
+    {
+        "name": "Clemen",
+        "vorname": "Robert",
+        "zusatz": "",
+        "sprechbeitraege": "99"
+    },
+    {
+        "name": "Clemens",
+        "vorname": "Martin",
+        "zusatz": "",
+        "sprechbeitraege": "53"
+    },
+    {
+        "name": "Colditz",
+        "vorname": "Thomas",
+        "zusatz": "",
+        "sprechbeitraege": "302"
+    },
+    {
+        "name": "Czok",
+        "vorname": "Karl",
+        "zusatz": "",
+        "sprechbeitraege": "12"
+    },
+    {
+        "name": "Deicke",
+        "vorname": "Liane",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "155"
+    },
+    {
+        "name": "Delle",
+        "vorname": "Alexander",
+        "zusatz": "",
+        "sprechbeitraege": "257"
+    },
+    {
+        "name": "Despang",
+        "vorname": "Rene",
+        "zusatz": "",
+        "sprechbeitraege": "51"
+    },
+    {
+        "name": "Dierich",
+        "vorname": "Peter",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "27"
+    },
+    {
+        "name": "Dierks",
+        "vorname": "Alexander",
+        "zusatz": "",
+        "sprechbeitraege": "61"
+    },
+    {
+        "name": "Dietrich",
+        "vorname": "Eric",
+        "zusatz": "",
+        "sprechbeitraege": "4"
+    },
+    {
+        "name": "Dietzschold",
+        "vorname": "Hannelore",
+        "zusatz": "",
+        "sprechbeitraege": "35"
+    },
+    {
+        "name": "Dombois",
+        "vorname": "Andrea",
+        "zusatz": "",
+        "sprechbeitraege": "31"
+    },
+    {
+        "name": "Donaubauer",
+        "vorname": "Bernd",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "8"
+    },
+    {
+        "name": "Donner",
+        "vorname": "Ralf",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "141"
+    },
+    {
+        "name": "Dornau",
+        "vorname": "Jörg",
+        "zusatz": "",
+        "sprechbeitraege": "13"
+    },
+    {
+        "name": "Dreher",
+        "vorname": "Stefan",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "23"
+    },
+    {
+        "name": "Dreikopf",
+        "vorname": "Klaus",
+        "zusatz": "",
+        "sprechbeitraege": "42"
+    },
+    {
+        "name": "Dringenberg",
+        "vorname": "Volker",
+        "zusatz": "Götz Dr.",
+        "sprechbeitraege": "4"
+    },
+    {
+        "name": "Dulig",
+        "vorname": "Martin",
+        "zusatz": "",
+        "sprechbeitraege": "384"
+    },
+    {
+        "name": "Dürrschmidt",
+        "vorname": "Jürgen",
+        "zusatz": "",
+        "sprechbeitraege": "381"
+    },
+    {
+        "name": "Dyrlich",
+        "vorname": "Benedikt",
+        "zusatz": "",
+        "sprechbeitraege": "63"
+    },
+    {
+        "name": "Eggert",
+        "vorname": "Heinz",
+        "zusatz": "",
+        "sprechbeitraege": "200"
+    },
+    {
+        "name": "Einsle",
+        "vorname": "Siegrun",
+        "zusatz": "",
+        "sprechbeitraege": "64"
+    },
+    {
+        "name": "Eißler",
+        "vorname": "Ralf",
+        "zusatz": "",
+        "sprechbeitraege": "13"
+    },
+    {
+        "name": "Elsner",
+        "vorname": "Michael",
+        "zusatz": "",
+        "sprechbeitraege": "83"
+    },
+    {
+        "name": "Enders",
+        "vorname": "Wolfgang",
+        "zusatz": "",
+        "sprechbeitraege": "1"
+    },
+    {
+        "name": "Ermisch",
+        "vorname": "Günther",
+        "zusatz": "",
+        "sprechbeitraege": "7"
+    },
+    {
+        "name": "Ernst",
+        "vorname": "Christine",
+        "zusatz": "",
+        "sprechbeitraege": "20"
+    },
+    {
+        "name": "Ernst",
+        "vorname": "Cornelia",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "212"
+    },
+    {
+        "name": "Falken",
+        "vorname": "Cornelia",
+        "zusatz": "",
+        "sprechbeitraege": "208"
+    },
+    {
+        "name": "Feig",
+        "vorname": "Rainer",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "7"
+    },
+    {
+        "name": "Feiks",
+        "vorname": "Antje",
+        "zusatz": "",
+        "sprechbeitraege": "25"
+    },
+    {
+        "name": "Fiedler",
+        "vorname": "Aline",
+        "zusatz": "",
+        "sprechbeitraege": "90"
+    },
+    {
+        "name": "Firmenich",
+        "vorname": "Iris",
+        "zusatz": "",
+        "sprechbeitraege": "2"
+    },
+    {
+        "name": "Firmenich",
+        "vorname": "Iris",
+        "zusatz": "",
+        "sprechbeitraege": "28"
+    },
+    {
+        "name": "Fischer",
+        "vorname": "Sebastian",
+        "zusatz": "",
+        "sprechbeitraege": "73"
+    },
+    {
+        "name": "Flath",
+        "vorname": "Steffen",
+        "zusatz": "",
+        "sprechbeitraege": "374"
+    },
+    {
+        "name": "Flemming",
+        "vorname": "Ingo",
+        "zusatz": "",
+        "sprechbeitraege": "2"
+    },
+    {
+        "name": "Förster",
+        "vorname": "Alfred",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "120"
+    },
+    {
+        "name": "Franke",
+        "vorname": "Dietmar",
+        "zusatz": "",
+        "sprechbeitraege": "144"
+    },
+    {
+        "name": "Franke",
+        "vorname": "Edith",
+        "zusatz": "Dr. phil.",
+        "sprechbeitraege": "26"
+    },
+    {
+        "name": "Freifrau von Fritsch",
+        "vorname": "Angelika",
+        "zusatz": "",
+        "sprechbeitraege": "145"
+    },
+    {
+        "name": "Friedel",
+        "vorname": "Sabine",
+        "zusatz": "",
+        "sprechbeitraege": "260"
+    },
+    {
+        "name": "Friedrich",
+        "vorname": "Michael",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "126"
+    },
+    {
+        "name": "Friedrich",
+        "vorname": "Michael",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "336"
+    },
+    {
+        "name": "Fritzsche",
+        "vorname": "Oliver",
+        "zusatz": "",
+        "sprechbeitraege": "75"
+    },
+    {
+        "name": "Fröhlich",
+        "vorname": "Renè",
+        "zusatz": "",
+        "sprechbeitraege": "17"
+    },
+    {
+        "name": "Fröhlich",
+        "vorname": "Siegbert",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "64"
+    },
+    {
+        "name": "Gaber",
+        "vorname": "Klaus",
+        "zusatz": "",
+        "sprechbeitraege": "194"
+    },
+    {
+        "name": "Gahler",
+        "vorname": "Torsten",
+        "zusatz": "",
+        "sprechbeitraege": "12"
+    },
+    {
+        "name": "Gallert",
+        "vorname": "Horst",
+        "zusatz": "",
+        "sprechbeitraege": "4"
+    },
+    {
+        "name": "Gangloff",
+        "vorname": "Maria",
+        "zusatz": "",
+        "sprechbeitraege": "156"
+    },
+    {
+        "name": "Gansel",
+        "vorname": "Jürgen",
+        "zusatz": "",
+        "sprechbeitraege": "374"
+    },
+    {
+        "name": "Gasse",
+        "vorname": "Holger",
+        "zusatz": "",
+        "sprechbeitraege": "22"
+    },
+    {
+        "name": "Gebhardt",
+        "vorname": "Rico",
+        "zusatz": "",
+        "sprechbeitraege": "158"
+    },
+    {
+        "name": "Geisler",
+        "vorname": "Hans",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "698"
+    },
+    {
+        "name": "Gemkow",
+        "vorname": "Sebastian",
+        "zusatz": "",
+        "sprechbeitraege": "110"
+    },
+    {
+        "name": "Georgi",
+        "vorname": "Ute",
+        "zusatz": "",
+        "sprechbeitraege": "244"
+    },
+    {
+        "name": "Gerber",
+        "vorname": "Daniel",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "21"
+    },
+    {
+        "name": "Gerlach",
+        "vorname": "Johannes",
+        "zusatz": "",
+        "sprechbeitraege": "388"
+    },
+    {
+        "name": "Gerstenberg",
+        "vorname": "Karl-Heinz",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "381"
+    },
+    {
+        "name": "Giegengack",
+        "vorname": "Annekathrin",
+        "zusatz": "",
+        "sprechbeitraege": "142"
+    },
+    {
+        "name": "Giesen",
+        "vorname": "Thomas",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "6"
+    },
+    {
+        "name": "Gillo",
+        "vorname": "Martin",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "153"
+    },
+    {
+        "name": "Gläß",
+        "vorname": "Heiderose",
+        "zusatz": "",
+        "sprechbeitraege": "30"
+    },
+    {
+        "name": "Goliasch",
+        "vorname": "Herbert",
+        "zusatz": "",
+        "sprechbeitraege": "108"
+    },
+    {
+        "name": "Gorskih",
+        "vorname": "Anna",
+        "zusatz": "",
+        "sprechbeitraege": "19"
+    },
+    {
+        "name": "Götzel",
+        "vorname": "Gerhard",
+        "zusatz": "",
+        "sprechbeitraege": "16"
+    },
+    {
+        "name": "Götzel",
+        "vorname": "Gerhard",
+        "zusatz": "Hartmut",
+        "sprechbeitraege": "33"
+    },
+    {
+        "name": "Grapatin",
+        "vorname": "Andreas",
+        "zusatz": "",
+        "sprechbeitraege": "22"
+    },
+    {
+        "name": "Gregert",
+        "vorname": "Helmut",
+        "zusatz": "",
+        "sprechbeitraege": "4"
+    },
+    {
+        "name": "Grimm",
+        "vorname": "Silke",
+        "zusatz": "",
+        "sprechbeitraege": "72"
+    },
+    {
+        "name": "Groß",
+        "vorname": "Friedbert",
+        "zusatz": "",
+        "sprechbeitraege": "111"
+    },
+    {
+        "name": "Gruhle",
+        "vorname": "Gertraude",
+        "zusatz": "",
+        "sprechbeitraege": "9"
+    },
+    {
+        "name": "Grüning",
+        "vorname": "Uwe",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "189"
+    },
+    {
+        "name": "Günther",
+        "vorname": "Klaus",
+        "zusatz": "",
+        "sprechbeitraege": "12"
+    },
+    {
+        "name": "Günther",
+        "vorname": "Tino",
+        "zusatz": "",
+        "sprechbeitraege": "231"
+    },
+    {
+        "name": "Günther",
+        "vorname": "Wolfram",
+        "zusatz": "",
+        "sprechbeitraege": "137"
+    },
+    {
+        "name": "Günther-Schmidt",
+        "vorname": "Astrid",
+        "zusatz": "",
+        "sprechbeitraege": "170"
+    },
+    {
+        "name": "Haas",
+        "vorname": "Friederike",
+        "zusatz": "de",
+        "sprechbeitraege": "111"
+    },
+    {
+        "name": "Hähle",
+        "vorname": "Fritz",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "288"
+    },
+    {
+        "name": "Hahn",
+        "vorname": "André",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "856"
+    },
+    {
+        "name": "Hahn",
+        "vorname": "Andreas",
+        "zusatz": "",
+        "sprechbeitraege": "42"
+    },
+    {
+        "name": "Hahn",
+        "vorname": "Christopher",
+        "zusatz": "",
+        "sprechbeitraege": "6"
+    },
+    {
+        "name": "Hähnel",
+        "vorname": "Andreas",
+        "zusatz": "",
+        "sprechbeitraege": "17"
+    },
+    {
+        "name": "Hähnel",
+        "vorname": "Eckmar",
+        "zusatz": "",
+        "sprechbeitraege": "2"
+    },
+    {
+        "name": "Hamburger",
+        "vorname": "Georg",
+        "zusatz": "",
+        "sprechbeitraege": "32"
+    },
+    {
+        "name": "Hammecke",
+        "vorname": "Lucie",
+        "zusatz": "",
+        "sprechbeitraege": "24"
+    },
+    {
+        "name": "Harbauer",
+        "vorname": "Peter",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "16"
+    },
+    {
+        "name": "Hardraht",
+        "vorname": "Klaus",
+        "zusatz": "",
+        "sprechbeitraege": "459"
+    },
+    {
+        "name": "Hartmann",
+        "vorname": "Christian",
+        "zusatz": "",
+        "sprechbeitraege": "199"
+    },
+    {
+        "name": "Haß",
+        "vorname": "Matthias",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "28"
+    },
+    {
+        "name": "Hatzsch",
+        "vorname": "Gunther",
+        "zusatz": "",
+        "sprechbeitraege": "417"
+    },
+    {
+        "name": "Haubitz",
+        "vorname": "Frank",
+        "zusatz": "",
+        "sprechbeitraege": "4"
+    },
+    {
+        "name": "Hauck",
+        "vorname": "Christian",
+        "zusatz": "",
+        "sprechbeitraege": "78"
+    },
+    {
+        "name": "Hauschild",
+        "vorname": "Mike",
+        "zusatz": "",
+        "sprechbeitraege": "79"
+    },
+    {
+        "name": "Hegewald",
+        "vorname": "Helmar",
+        "zusatz": "Prof. Dr. sc.",
+        "sprechbeitraege": "103"
+    },
+    {
+        "name": "Heidan",
+        "vorname": "Frank",
+        "zusatz": "",
+        "sprechbeitraege": "193"
+    },
+    {
+        "name": "Hein",
+        "vorname": "René",
+        "zusatz": "",
+        "sprechbeitraege": "6"
+    },
+    {
+        "name": "Heinrich",
+        "vorname": "Peter",
+        "zusatz": "",
+        "sprechbeitraege": "17"
+    },
+    {
+        "name": "Heinz",
+        "vorname": "Andreas",
+        "zusatz": "",
+        "sprechbeitraege": "192"
+    },
+    {
+        "name": "Heitmann",
+        "vorname": "Steffen",
+        "zusatz": "",
+        "sprechbeitraege": "258"
+    },
+    {
+        "name": "Henke",
+        "vorname": "Rita",
+        "zusatz": "",
+        "sprechbeitraege": "124"
+    },
+    {
+        "name": "Hentschel",
+        "vorname": "Holger",
+        "zusatz": "",
+        "sprechbeitraege": "12"
+    },
+    {
+        "name": "Herbst",
+        "vorname": "Torsten",
+        "zusatz": "",
+        "sprechbeitraege": "334"
+    },
+    {
+        "name": "Hermenau",
+        "vorname": "Antje",
+        "zusatz": "",
+        "sprechbeitraege": "274"
+    },
+    {
+        "name": "Hermsdorfer",
+        "vorname": "Thomas",
+        "zusatz": "",
+        "sprechbeitraege": "53"
+    },
+    {
+        "name": "Herrmann",
+        "vorname": "Elke",
+        "zusatz": "",
+        "sprechbeitraege": "454"
+    },
+    {
+        "name": "Hielscher",
+        "vorname": "Günter",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "93"
+    },
+    {
+        "name": "Hilker",
+        "vorname": "Heiko",
+        "zusatz": "",
+        "sprechbeitraege": "244"
+    },
+    {
+        "name": "Hippold",
+        "vorname": "Jan",
+        "zusatz": "",
+        "sprechbeitraege": "61"
+    },
+    {
+        "name": "Hirche",
+        "vorname": "Frank",
+        "zusatz": "",
+        "sprechbeitraege": "11"
+    },
+    {
+        "name": "Hoffmann",
+        "vorname": "Heinz",
+        "zusatz": "",
+        "sprechbeitraege": "2"
+    },
+    {
+        "name": "Höll",
+        "vorname": "Barbara",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "20"
+    },
+    {
+        "name": "Homann",
+        "vorname": "Henning",
+        "zusatz": "",
+        "sprechbeitraege": "176"
+    },
+    {
+        "name": "Hösl",
+        "vorname": "Stephan",
+        "zusatz": "",
+        "sprechbeitraege": "10"
+    },
+    {
+        "name": "Hubrich",
+        "vorname": "Werner",
+        "zusatz": "",
+        "sprechbeitraege": "5"
+    },
+    {
+        "name": "Hubrig",
+        "vorname": "Andrea",
+        "zusatz": "",
+        "sprechbeitraege": "19"
+    },
+    {
+        "name": "Husemann",
+        "vorname": "Klaus",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "82"
+    },
+    {
+        "name": "Hütter",
+        "vorname": "Carsten",
+        "zusatz": "",
+        "sprechbeitraege": "110"
+    },
+    {
+        "name": "Iltgen",
+        "vorname": "Erich",
+        "zusatz": "",
+        "sprechbeitraege": "49"
+    },
+    {
+        "name": "Ittershagen",
+        "vorname": "Steve",
+        "zusatz": "",
+        "sprechbeitraege": "11"
+    },
+    {
+        "name": "Jaeckel",
+        "vorname": "Fritz",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "32"
+    },
+    {
+        "name": "Jähnichen",
+        "vorname": "Rolf",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "351"
+    },
+    {
+        "name": "Jähnigen",
+        "vorname": "Eva",
+        "zusatz": "",
+        "sprechbeitraege": "275"
+    },
+    {
+        "name": "Jahr",
+        "vorname": "Peter",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "139"
+    },
+    {
+        "name": "Jalaß",
+        "vorname": "René",
+        "zusatz": "",
+        "sprechbeitraege": "22"
+    },
+    {
+        "name": "Jennerjahn",
+        "vorname": "Miro",
+        "zusatz": "",
+        "sprechbeitraege": "114"
+    },
+    {
+        "name": "Jonas",
+        "vorname": "Anja",
+        "zusatz": "",
+        "sprechbeitraege": "71"
+    },
+    {
+        "name": "Jost",
+        "vorname": "Martina",
+        "zusatz": "",
+        "sprechbeitraege": "10"
+    },
+    {
+        "name": "Jung",
+        "vorname": "Dietmar",
+        "zusatz": "",
+        "sprechbeitraege": "5"
+    },
+    {
+        "name": "Junge",
+        "vorname": "Marion",
+        "zusatz": "",
+        "sprechbeitraege": "56"
+    },
+    {
+        "name": "Jurk",
+        "vorname": "Thomas",
+        "zusatz": "",
+        "sprechbeitraege": "846"
+    },
+    {
+        "name": "Kagelmann",
+        "vorname": "Kathrin",
+        "zusatz": "",
+        "sprechbeitraege": "115"
+    },
+    {
+        "name": "Kallenbach",
+        "vorname": "Gisela",
+        "zusatz": "",
+        "sprechbeitraege": "84"
+    },
+    {
+        "name": "Kampling",
+        "vorname": "Harry",
+        "zusatz": "",
+        "sprechbeitraege": "2"
+    },
+    {
+        "name": "Kannegießer",
+        "vorname": "Hans-Jörg",
+        "zusatz": "",
+        "sprechbeitraege": "151"
+    },
+    {
+        "name": "Karabinski",
+        "vorname": "Benjamin",
+        "zusatz": "",
+        "sprechbeitraege": "83"
+    },
+    {
+        "name": "Kehl",
+        "vorname": "Johann",
+        "zusatz": "",
+        "sprechbeitraege": "95"
+    },
+    {
+        "name": "Keiler",
+        "vorname": "Joachim",
+        "zusatz": "Michael Dr.",
+        "sprechbeitraege": "19"
+    },
+    {
+        "name": "Keller",
+        "vorname": "Karin",
+        "zusatz": "",
+        "sprechbeitraege": "24"
+    },
+    {
+        "name": "Keller",
+        "vorname": "Tobias",
+        "zusatz": "Martin",
+        "sprechbeitraege": "9"
+    },
+    {
+        "name": "Keller-Strempel",
+        "vorname": "Karin",
+        "zusatz": "",
+        "sprechbeitraege": "12"
+    },
+    {
+        "name": "Kersten",
+        "vorname": "Andrea",
+        "zusatz": "",
+        "sprechbeitraege": "92"
+    },
+    {
+        "name": "Kienzle",
+        "vorname": "Alfons",
+        "zusatz": "",
+        "sprechbeitraege": "9"
+    },
+    {
+        "name": "Kiesewetter",
+        "vorname": "Jörg",
+        "zusatz": "",
+        "sprechbeitraege": "28"
+    },
+    {
+        "name": "Kind",
+        "vorname": "Thomas",
+        "zusatz": "",
+        "sprechbeitraege": "54"
+    },
+    {
+        "name": "Kipping",
+        "vorname": "Katja",
+        "zusatz": "",
+        "sprechbeitraege": "97"
+    },
+    {
+        "name": "Kirmes",
+        "vorname": "Svend-Gunnar",
+        "zusatz": "",
+        "sprechbeitraege": "24"
+    },
+    {
+        "name": "Kirste",
+        "vorname": "Thomas",
+        "zusatz": "",
+        "sprechbeitraege": "9"
+    },
+    {
+        "name": "Klaußner",
+        "vorname": "Bernd",
+        "zusatz": "Dr. rer. pol.",
+        "sprechbeitraege": "19"
+    },
+    {
+        "name": "Klein",
+        "vorname": "Gudrun",
+        "zusatz": "",
+        "sprechbeitraege": "189"
+    },
+    {
+        "name": "Klepsch",
+        "vorname": "Annekatrin",
+        "zusatz": "",
+        "sprechbeitraege": "102"
+    },
+    {
+        "name": "Klepsch",
+        "vorname": "Barbara",
+        "zusatz": "",
+        "sprechbeitraege": "141"
+    },
+    {
+        "name": "Kliese",
+        "vorname": "Hanka",
+        "zusatz": "",
+        "sprechbeitraege": "149"
+    },
+    {
+        "name": "Klinger",
+        "vorname": "Freya-Maria",
+        "zusatz": "",
+        "sprechbeitraege": "76"
+    },
+    {
+        "name": "Klinnert",
+        "vorname": "Werner",
+        "zusatz": "",
+        "sprechbeitraege": "37"
+    },
+    {
+        "name": "Klotzbücher",
+        "vorname": "Anja",
+        "zusatz": "",
+        "sprechbeitraege": "10"
+    },
+    {
+        "name": "Kockert",
+        "vorname": "Gerhard",
+        "zusatz": "",
+        "sprechbeitraege": "26"
+    },
+    {
+        "name": "Köditz",
+        "vorname": "Kerstin",
+        "zusatz": "",
+        "sprechbeitraege": "150"
+    },
+    {
+        "name": "Kolbe",
+        "vorname": "Manfred",
+        "zusatz": "",
+        "sprechbeitraege": "44"
+    },
+    {
+        "name": "Köllner",
+        "vorname": "Ines-Maria",
+        "zusatz": "",
+        "sprechbeitraege": "16"
+    },
+    {
+        "name": "Köpping",
+        "vorname": "Petra",
+        "zusatz": "",
+        "sprechbeitraege": "151"
+    },
+    {
+        "name": "Kosel",
+        "vorname": "Heiko",
+        "zusatz": "",
+        "sprechbeitraege": "304"
+    },
+    {
+        "name": "Kosel",
+        "vorname": "Sieghard",
+        "zusatz": "",
+        "sprechbeitraege": "225"
+    },
+    {
+        "name": "Krasselt",
+        "vorname": "Gernot",
+        "zusatz": "",
+        "sprechbeitraege": "54"
+    },
+    {
+        "name": "Krause",
+        "vorname": "Rudolf",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "32"
+    },
+    {
+        "name": "Krauß",
+        "vorname": "Alexander",
+        "zusatz": "",
+        "sprechbeitraege": "229"
+    },
+    {
+        "name": "Kretschmer",
+        "vorname": "Michael",
+        "zusatz": "",
+        "sprechbeitraege": "26"
+    },
+    {
+        "name": "Kröber",
+        "vorname": "Günter",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "161"
+    },
+    {
+        "name": "Krone",
+        "vorname": "Günter",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "43"
+    },
+    {
+        "name": "Kubicek",
+        "vorname": "Annelies",
+        "zusatz": "MR",
+        "sprechbeitraege": "89"
+    },
+    {
+        "name": "Kuge",
+        "vorname": "Daniela",
+        "zusatz": "",
+        "sprechbeitraege": "36"
+    },
+    {
+        "name": "Kuhfuß",
+        "vorname": "Kathleen",
+        "zusatz": "",
+        "sprechbeitraege": "30"
+    },
+    {
+        "name": "Kühne",
+        "vorname": "Jörg",
+        "zusatz": "Steffen",
+        "sprechbeitraege": "5"
+    },
+    {
+        "name": "Kühnel",
+        "vorname": "Johannes",
+        "zusatz": "",
+        "sprechbeitraege": "4"
+    },
+    {
+        "name": "Kuhnert",
+        "vorname": "Roberto",
+        "zusatz": "",
+        "sprechbeitraege": "10"
+    },
+    {
+        "name": "Kühnrich",
+        "vorname": "Klaus-Dieter",
+        "zusatz": "",
+        "sprechbeitraege": "26"
+    },
+    {
+        "name": "Külow",
+        "vorname": "Volker",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "59"
+    },
+    {
+        "name": "Kulscher",
+        "vorname": "Ursula",
+        "zusatz": "",
+        "sprechbeitraege": "5"
+    },
+    {
+        "name": "Kummer",
+        "vorname": "Ines",
+        "zusatz": "",
+        "sprechbeitraege": "9"
+    },
+    {
+        "name": "Kumpf",
+        "vorname": "Mario",
+        "zusatz": "",
+        "sprechbeitraege": "7"
+    },
+    {
+        "name": "Kunckel",
+        "vorname": "Karl-Heinz",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "211"
+    },
+    {
+        "name": "Kunzmann",
+        "vorname": "Bernd",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "78"
+    },
+    {
+        "name": "Kupfer",
+        "vorname": "Frank",
+        "zusatz": "",
+        "sprechbeitraege": "280"
+    },
+    {
+        "name": "Kuppi",
+        "vorname": "Lars",
+        "zusatz": "",
+        "sprechbeitraege": "9"
+    },
+    {
+        "name": "Kurth",
+        "vorname": "Brunhild",
+        "zusatz": "",
+        "sprechbeitraege": "117"
+    },
+    {
+        "name": "Lämmel",
+        "vorname": "Andreas",
+        "zusatz": "",
+        "sprechbeitraege": "188"
+    },
+    {
+        "name": "Landgraf",
+        "vorname": "Katharina",
+        "zusatz": "",
+        "sprechbeitraege": "10"
+    },
+    {
+        "name": "Lang",
+        "vorname": "Simone",
+        "zusatz": "",
+        "sprechbeitraege": "93"
+    },
+    {
+        "name": "Langer",
+        "vorname": "Eberhard",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "169"
+    },
+    {
+        "name": "Lattmann-Kretschmer",
+        "vorname": "Gunild",
+        "zusatz": "",
+        "sprechbeitraege": "138"
+    },
+    {
+        "name": "Laue",
+        "vorname": "Dietmar",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "22"
+    },
+    {
+        "name": "Lauterbach",
+        "vorname": "Kerstin",
+        "zusatz": "",
+        "sprechbeitraege": "128"
+    },
+    {
+        "name": "Lay",
+        "vorname": "Caren",
+        "zusatz": "",
+        "sprechbeitraege": "135"
+    },
+    {
+        "name": "Lehmann",
+        "vorname": "Heinz",
+        "zusatz": "",
+        "sprechbeitraege": "357"
+    },
+    {
+        "name": "Lehner",
+        "vorname": "Hans",
+        "zusatz": "Heinz",
+        "sprechbeitraege": "75"
+    },
+    {
+        "name": "Leichsenring",
+        "vorname": "Uwe",
+        "zusatz": "",
+        "sprechbeitraege": "131"
+    },
+    {
+        "name": "Leithoff",
+        "vorname": "Susan",
+        "zusatz": "",
+        "sprechbeitraege": "4"
+    },
+    {
+        "name": "Leroff",
+        "vorname": "Klaus",
+        "zusatz": "",
+        "sprechbeitraege": "614"
+    },
+    {
+        "name": "Lersow",
+        "vorname": "Michael",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "126"
+    },
+    {
+        "name": "Lichdi",
+        "vorname": "Johannes",
+        "zusatz": "",
+        "sprechbeitraege": "521"
+    },
+    {
+        "name": "Liebhauser",
+        "vorname": "Sven",
+        "zusatz": "",
+        "sprechbeitraege": "10"
+    },
+    {
+        "name": "Liebscher",
+        "vorname": "Gerhard",
+        "zusatz": "",
+        "sprechbeitraege": "27"
+    },
+    {
+        "name": "Lippmann",
+        "vorname": "Eberhard",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "110"
+    },
+    {
+        "name": "Lippmann",
+        "vorname": "Valentin",
+        "zusatz": "",
+        "sprechbeitraege": "274"
+    },
+    {
+        "name": "Lippold",
+        "vorname": "Gerd",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "100"
+    },
+    {
+        "name": "Lochbaum",
+        "vorname": "Gunter",
+        "zusatz": "",
+        "sprechbeitraege": "168"
+    },
+    {
+        "name": "Lochmann",
+        "vorname": "Corinna",
+        "zusatz": "",
+        "sprechbeitraege": "14"
+    },
+    {
+        "name": "Löffler",
+        "vorname": "Jan",
+        "zusatz": "",
+        "sprechbeitraege": "38"
+    },
+    {
+        "name": "Löffler",
+        "vorname": "Mario",
+        "zusatz": "",
+        "sprechbeitraege": "59"
+    },
+    {
+        "name": "Löser",
+        "vorname": "Thomas",
+        "zusatz": "",
+        "sprechbeitraege": "9"
+    },
+    {
+        "name": "Lucassen",
+        "vorname": "Hanjo",
+        "zusatz": "",
+        "sprechbeitraege": "69"
+    },
+    {
+        "name": "Ludwig",
+        "vorname": "Barbara",
+        "zusatz": "",
+        "sprechbeitraege": "177"
+    },
+    {
+        "name": "Lupart",
+        "vorname": "Ulrich",
+        "zusatz": "Willi",
+        "sprechbeitraege": "2"
+    },
+    {
+        "name": "Mackenroth",
+        "vorname": "Geert",
+        "zusatz": "",
+        "sprechbeitraege": "182"
+    },
+    {
+        "name": "Madai",
+        "vorname": "Wolfgang",
+        "zusatz": "",
+        "sprechbeitraege": "3"
+    },
+    {
+        "name": "Mädler",
+        "vorname": "Thomas",
+        "zusatz": "",
+        "sprechbeitraege": "74"
+    },
+    {
+        "name": "Maicher",
+        "vorname": "Claudia",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "22"
+    },
+    {
+        "name": "Maicher",
+        "vorname": "Claudia",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "108"
+    },
+    {
+        "name": "Maizière de",
+        "vorname": "Thomas",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "140"
+    },
+    {
+        "name": "Mann",
+        "vorname": "Holger",
+        "zusatz": "",
+        "sprechbeitraege": "188"
+    },
+    {
+        "name": "Mannsfeld",
+        "vorname": "Karl",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "290"
+    },
+    {
+        "name": "Marcus",
+        "vorname": "Wolfgang",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "54"
+    },
+    {
+        "name": "Markert",
+        "vorname": "Jörg",
+        "zusatz": "",
+        "sprechbeitraege": "13"
+    },
+    {
+        "name": "Martens",
+        "vorname": "Jürgen",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "410"
+    },
+    {
+        "name": "Matko",
+        "vorname": "Karl",
+        "zusatz": "",
+        "sprechbeitraege": "15"
+    },
+    {
+        "name": "Mattern",
+        "vorname": "Ingrid",
+        "zusatz": "",
+        "sprechbeitraege": "291"
+    },
+    {
+        "name": "Matthes",
+        "vorname": "Gesine",
+        "zusatz": "",
+        "sprechbeitraege": "24"
+    },
+    {
+        "name": "Matzke",
+        "vorname": "Cornelia",
+        "zusatz": "",
+        "sprechbeitraege": "139"
+    },
+    {
+        "name": "Mayer",
+        "vorname": "Norbert",
+        "zusatz": "Otto",
+        "sprechbeitraege": "10"
+    },
+    {
+        "name": "Meier",
+        "vorname": "Katja",
+        "zusatz": "",
+        "sprechbeitraege": "146"
+    },
+    {
+        "name": "Meiwald",
+        "vorname": "Uta-Verena",
+        "zusatz": "",
+        "sprechbeitraege": "43"
+    },
+    {
+        "name": "Meiwald",
+        "vorname": "Verena",
+        "zusatz": "",
+        "sprechbeitraege": "24"
+    },
+    {
+        "name": "Melcher",
+        "vorname": "Christin",
+        "zusatz": "",
+        "sprechbeitraege": "23"
+    },
+    {
+        "name": "Mende",
+        "vorname": "Lothar",
+        "zusatz": "",
+        "sprechbeitraege": "12"
+    },
+    {
+        "name": "Menzel",
+        "vorname": "Klaus-Jürgen",
+        "zusatz": "",
+        "sprechbeitraege": "11"
+    },
+    {
+        "name": "Mertsching",
+        "vorname": "Antonia",
+        "zusatz": "",
+        "sprechbeitraege": "25"
+    },
+    {
+        "name": "Metz",
+        "vorname": "Horst",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "196"
+    },
+    {
+        "name": "Meyer",
+        "vorname": "Christine",
+        "zusatz": "",
+        "sprechbeitraege": "18"
+    },
+    {
+        "name": "Meyer",
+        "vorname": "Günter",
+        "zusatz": "",
+        "sprechbeitraege": "4"
+    },
+    {
+        "name": "Meyer",
+        "vorname": "Günther",
+        "zusatz": "",
+        "sprechbeitraege": "8"
+    },
+    {
+        "name": "Meyer",
+        "vorname": "Hans-Joachim",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "253"
+    },
+    {
+        "name": "Meyer",
+        "vorname": "Stephan",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "119"
+    },
+    {
+        "name": "Michel",
+        "vorname": "Jens",
+        "zusatz": "",
+        "sprechbeitraege": "83"
+    },
+    {
+        "name": "Mikwauschk",
+        "vorname": "Aloysius",
+        "zusatz": "",
+        "sprechbeitraege": "20"
+    },
+    {
+        "name": "Milbradt",
+        "vorname": "Georg",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "304"
+    },
+    {
+        "name": "Möckel",
+        "vorname": "Gerd",
+        "zusatz": "",
+        "sprechbeitraege": "9"
+    },
+    {
+        "name": "Modschiedler",
+        "vorname": "Martin",
+        "zusatz": "",
+        "sprechbeitraege": "101"
+    },
+    {
+        "name": "Morlok",
+        "vorname": "Sven",
+        "zusatz": "",
+        "sprechbeitraege": "443"
+    },
+    {
+        "name": "Müller",
+        "vorname": "Helmut",
+        "zusatz": "",
+        "sprechbeitraege": "25"
+    },
+    {
+        "name": "Müller",
+        "vorname": "Johannes",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "424"
+    },
+    {
+        "name": "Müller",
+        "vorname": "Kornelia",
+        "zusatz": "",
+        "sprechbeitraege": "135"
+    },
+    {
+        "name": "Münch",
+        "vorname": "Helmut",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "205"
+    },
+    {
+        "name": "Muster",
+        "vorname": "Kirsten",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "112"
+    },
+    {
+        "name": "Nagel",
+        "vorname": "Juliane",
+        "zusatz": "",
+        "sprechbeitraege": "69"
+    },
+    {
+        "name": "Neubert",
+        "vorname": "Falk",
+        "zusatz": "",
+        "sprechbeitraege": "193"
+    },
+    {
+        "name": "Neuhaus-Wartenberg",
+        "vorname": "Luise",
+        "zusatz": "",
+        "sprechbeitraege": "44"
+    },
+    {
+        "name": "Neukirch",
+        "vorname": "Dagmar",
+        "zusatz": "",
+        "sprechbeitraege": "113"
+    },
+    {
+        "name": "Nicolaus",
+        "vorname": "Kerstin",
+        "zusatz": "",
+        "sprechbeitraege": "233"
+    },
+    {
+        "name": "Nitzsche",
+        "vorname": "Henry",
+        "zusatz": "",
+        "sprechbeitraege": "91"
+    },
+    {
+        "name": "Noack",
+        "vorname": "Ludwig",
+        "zusatz": "",
+        "sprechbeitraege": "26"
+    },
+    {
+        "name": "Nollau",
+        "vorname": "Volker",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "11"
+    },
+    {
+        "name": "Nolle",
+        "vorname": "Karl",
+        "zusatz": "",
+        "sprechbeitraege": "183"
+    },
+    {
+        "name": "Nowak",
+        "vorname": "Andreas",
+        "zusatz": "",
+        "sprechbeitraege": "58"
+    },
+    {
+        "name": "Nowak",
+        "vorname": "Wolfgang",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "141"
+    },
+    {
+        "name": "Oberhoffner",
+        "vorname": "Jens",
+        "zusatz": "",
+        "sprechbeitraege": "2"
+    },
+    {
+        "name": "Orosz",
+        "vorname": "Helma",
+        "zusatz": "",
+        "sprechbeitraege": "297"
+    },
+    {
+        "name": "Ostrowski",
+        "vorname": "Christine",
+        "zusatz": "",
+        "sprechbeitraege": "127"
+    },
+    {
+        "name": "Ott",
+        "vorname": "Patrick",
+        "zusatz": "",
+        "sprechbeitraege": "85"
+    },
+    {
+        "name": "Otto",
+        "vorname": "Gerald",
+        "zusatz": "",
+        "sprechbeitraege": "10"
+    },
+    {
+        "name": "Pallas",
+        "vorname": "Albrecht",
+        "zusatz": "",
+        "sprechbeitraege": "192"
+    },
+    {
+        "name": "Panter",
+        "vorname": "Dirk",
+        "zusatz": "",
+        "sprechbeitraege": "108"
+    },
+    {
+        "name": "Patt",
+        "vorname": "Peter",
+        "zusatz": "Wilhelm",
+        "sprechbeitraege": "109"
+    },
+    {
+        "name": "Paul",
+        "vorname": "Matthias",
+        "zusatz": "",
+        "sprechbeitraege": "82"
+    },
+    {
+        "name": "Pecher",
+        "vorname": "Mario",
+        "zusatz": "",
+        "sprechbeitraege": "233"
+    },
+    {
+        "name": "Pellmann",
+        "vorname": "Dietmar",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "270"
+    },
+    {
+        "name": "Penz",
+        "vorname": "Romy",
+        "zusatz": "",
+        "sprechbeitraege": "6"
+    },
+    {
+        "name": "Peschel",
+        "vorname": "Frank",
+        "zusatz": "",
+        "sprechbeitraege": "7"
+    },
+    {
+        "name": "Petry",
+        "vorname": "Frauke",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "84"
+    },
+    {
+        "name": "Petzold",
+        "vorname": "Gudrun",
+        "zusatz": "",
+        "sprechbeitraege": "3"
+    },
+    {
+        "name": "Petzold",
+        "vorname": "Ingrid",
+        "zusatz": "",
+        "sprechbeitraege": "128"
+    },
+    {
+        "name": "Petzold",
+        "vorname": "Jürgen",
+        "zusatz": "",
+        "sprechbeitraege": "66"
+    },
+    {
+        "name": "Petzold",
+        "vorname": "Winfried",
+        "zusatz": "",
+        "sprechbeitraege": "201"
+    },
+    {
+        "name": "Pfau",
+        "vorname": "Janina",
+        "zusatz": "",
+        "sprechbeitraege": "31"
+    },
+    {
+        "name": "Pfeifer",
+        "vorname": "Wolfgang",
+        "zusatz": "",
+        "sprechbeitraege": "25"
+    },
+    {
+        "name": "Pfeiffer",
+        "vorname": "Angelika",
+        "zusatz": "",
+        "sprechbeitraege": "33"
+    },
+    {
+        "name": "Pfeil",
+        "vorname": "Juliane",
+        "zusatz": "",
+        "sprechbeitraege": "23"
+    },
+    {
+        "name": "Pfeil-Zabel",
+        "vorname": "Juliane",
+        "zusatz": "",
+        "sprechbeitraege": "38"
+    },
+    {
+        "name": "Pfordte",
+        "vorname": "Helmut",
+        "zusatz": "",
+        "sprechbeitraege": "6"
+    },
+    {
+        "name": "Pietzsch",
+        "vorname": "Thomas",
+        "zusatz": "",
+        "sprechbeitraege": "137"
+    },
+    {
+        "name": "Pinka",
+        "vorname": "Jana",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "172"
+    },
+    {
+        "name": "Piwarz",
+        "vorname": "Christian",
+        "zusatz": "",
+        "sprechbeitraege": "149"
+    },
+    {
+        "name": "Plobner",
+        "vorname": "Manfred",
+        "zusatz": "",
+        "sprechbeitraege": "78"
+    },
+    {
+        "name": "Pohle",
+        "vorname": "Ronald",
+        "zusatz": "",
+        "sprechbeitraege": "66"
+    },
+    {
+        "name": "Popp",
+        "vorname": "Thomas",
+        "zusatz": "",
+        "sprechbeitraege": "2"
+    },
+    {
+        "name": "Porsch",
+        "vorname": "Peter",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "810"
+    },
+    {
+        "name": "Prantl",
+        "vorname": "Thomas",
+        "zusatz": "",
+        "sprechbeitraege": "15"
+    },
+    {
+        "name": "Preißler",
+        "vorname": "Christian",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "62"
+    },
+    {
+        "name": "Raatz",
+        "vorname": "Simone",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "211"
+    },
+    {
+        "name": "Rade",
+        "vorname": "Ludwig",
+        "zusatz": "Martin",
+        "sprechbeitraege": "176"
+    },
+    {
+        "name": "Raether-Lordieck",
+        "vorname": "Iris",
+        "zusatz": "",
+        "sprechbeitraege": "35"
+    },
+    {
+        "name": "Rasch",
+        "vorname": "Horst",
+        "zusatz": "",
+        "sprechbeitraege": "314"
+    },
+    {
+        "name": "Rathenow",
+        "vorname": "Lutz",
+        "zusatz": "",
+        "sprechbeitraege": "1"
+    },
+    {
+        "name": "Raubold",
+        "vorname": "Joachim",
+        "zusatz": "",
+        "sprechbeitraege": "3"
+    },
+    {
+        "name": "Reber",
+        "vorname": "Stephan",
+        "zusatz": "",
+        "sprechbeitraege": "53"
+    },
+    {
+        "name": "Rehm",
+        "vorname": "Stefanie",
+        "zusatz": "",
+        "sprechbeitraege": "40"
+    },
+    {
+        "name": "Reichardt",
+        "vorname": "Monika",
+        "zusatz": "",
+        "sprechbeitraege": "9"
+    },
+    {
+        "name": "Reinfried",
+        "vorname": "Dieter",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "53"
+    },
+    {
+        "name": "Richter",
+        "vorname": "Christoph",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "21"
+    },
+    {
+        "name": "Richter",
+        "vorname": "Frank",
+        "zusatz": "",
+        "sprechbeitraege": "33"
+    },
+    {
+        "name": "Richter",
+        "vorname": "Gerd",
+        "zusatz": "",
+        "sprechbeitraege": "2"
+    },
+    {
+        "name": "Richter",
+        "vorname": "Hans",
+        "zusatz": "Jürgen",
+        "sprechbeitraege": "120"
+    },
+    {
+        "name": "Richter",
+        "vorname": "Joachim",
+        "zusatz": "",
+        "sprechbeitraege": "204"
+    },
+    {
+        "name": "Richter",
+        "vorname": "Lutz",
+        "zusatz": "",
+        "sprechbeitraege": "31"
+    },
+    {
+        "name": "Richter",
+        "vorname": "Wolfgang",
+        "zusatz": "",
+        "sprechbeitraege": "91"
+    },
+    {
+        "name": "Ritter",
+        "vorname": "Kay",
+        "zusatz": "",
+        "sprechbeitraege": "6"
+    },
+    {
+        "name": "Rohwer",
+        "vorname": "Lars",
+        "zusatz": "",
+        "sprechbeitraege": "271"
+    },
+    {
+        "name": "Rößler",
+        "vorname": "Matthias",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "1"
+    },
+    {
+        "name": "Rößler",
+        "vorname": "Matthias",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "413"
+    },
+    {
+        "name": "Rost",
+        "vorname": "Wolf-Dietrich",
+        "zusatz": "",
+        "sprechbeitraege": "17"
+    },
+    {
+        "name": "Roth",
+        "vorname": "Andrea",
+        "zusatz": "",
+        "sprechbeitraege": "368"
+    },
+    {
+        "name": "Rudorf",
+        "vorname": "Dieter",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "52"
+    },
+    {
+        "name": "Runge",
+        "vorname": "Monika",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "319"
+    },
+    {
+        "name": "Rush",
+        "vorname": "Antje",
+        "zusatz": "",
+        "sprechbeitraege": "102"
+    },
+    {
+        "name": "Saborowski",
+        "vorname": "Ines",
+        "zusatz": "",
+        "sprechbeitraege": "5"
+    },
+    {
+        "name": "Saborowski-Richter",
+        "vorname": "Ines",
+        "zusatz": "",
+        "sprechbeitraege": "13"
+    },
+    {
+        "name": "Sagurna",
+        "vorname": "Michael",
+        "zusatz": "",
+        "sprechbeitraege": "6"
+    },
+    {
+        "name": "Sandig",
+        "vorname": "Heiner",
+        "zusatz": "",
+        "sprechbeitraege": "133"
+    },
+    {
+        "name": "Schaper",
+        "vorname": "Susanne",
+        "zusatz": "",
+        "sprechbeitraege": "115"
+    },
+    {
+        "name": "Schaufel",
+        "vorname": "Dietmar",
+        "zusatz": "Frank",
+        "sprechbeitraege": "16"
+    },
+    {
+        "name": "Scheel",
+        "vorname": "Sebastian",
+        "zusatz": "",
+        "sprechbeitraege": "180"
+    },
+    {
+        "name": "Schenderlein",
+        "vorname": "Christiane",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "8"
+    },
+    {
+        "name": "Schenk",
+        "vorname": "Oliver",
+        "zusatz": "",
+        "sprechbeitraege": "42"
+    },
+    {
+        "name": "Schicke",
+        "vorname": "Herbert",
+        "zusatz": "",
+        "sprechbeitraege": "1"
+    },
+    {
+        "name": "Schiemann",
+        "vorname": "Marko",
+        "zusatz": "",
+        "sprechbeitraege": "434"
+    },
+    {
+        "name": "Schimmer",
+        "vorname": "Arne",
+        "zusatz": "",
+        "sprechbeitraege": "197"
+    },
+    {
+        "name": "Schimpff",
+        "vorname": "Volker",
+        "zusatz": "",
+        "sprechbeitraege": "206"
+    },
+    {
+        "name": "Schindler",
+        "vorname": "Joachim",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "20"
+    },
+    {
+        "name": "Schmalfuß",
+        "vorname": "Andreas",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "201"
+    },
+    {
+        "name": "Schmidt",
+        "vorname": "Jutta",
+        "zusatz": "",
+        "sprechbeitraege": "23"
+    },
+    {
+        "name": "Schmidt",
+        "vorname": "Mirko",
+        "zusatz": "",
+        "sprechbeitraege": "34"
+    },
+    {
+        "name": "Schmidt",
+        "vorname": "Thomas",
+        "zusatz": "",
+        "sprechbeitraege": "140"
+    },
+    {
+        "name": "Schmidt",
+        "vorname": "Werner",
+        "zusatz": "",
+        "sprechbeitraege": "1"
+    },
+    {
+        "name": "Schmitz",
+        "vorname": "Wolfgang",
+        "zusatz": "",
+        "sprechbeitraege": "14"
+    },
+    {
+        "name": "Schneider",
+        "vorname": "Angela",
+        "zusatz": "",
+        "sprechbeitraege": "216"
+    },
+    {
+        "name": "Schneider",
+        "vorname": "Günther",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "89"
+    },
+    {
+        "name": "Schollbach",
+        "vorname": "André",
+        "zusatz": "",
+        "sprechbeitraege": "41"
+    },
+    {
+        "name": "Schommer",
+        "vorname": "Kajo",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "556"
+    },
+    {
+        "name": "Schön",
+        "vorname": "Jürgen",
+        "zusatz": "",
+        "sprechbeitraege": "8"
+    },
+    {
+        "name": "Schöne-Firmenich",
+        "vorname": "Iris",
+        "zusatz": "",
+        "sprechbeitraege": "14"
+    },
+    {
+        "name": "Schönfeld",
+        "vorname": "Eva",
+        "zusatz": "Maria",
+        "sprechbeitraege": "27"
+    },
+    {
+        "name": "Schorlemer",
+        "vorname": "Sabine",
+        "zusatz": "von Prof. Dr.",
+        "sprechbeitraege": "80"
+    },
+    {
+        "name": "Schowtka",
+        "vorname": "Peter",
+        "zusatz": "",
+        "sprechbeitraege": "118"
+    },
+    {
+        "name": "Schramm",
+        "vorname": "Andreas",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "10"
+    },
+    {
+        "name": "Schreiber",
+        "vorname": "Patrick",
+        "zusatz": "",
+        "sprechbeitraege": "124"
+    },
+    {
+        "name": "Schreier",
+        "vorname": "Bernd",
+        "zusatz": "",
+        "sprechbeitraege": "63"
+    },
+    {
+        "name": "Schreyer",
+        "vorname": "Timo",
+        "zusatz": "",
+        "sprechbeitraege": "2"
+    },
+    {
+        "name": "Schubert",
+        "vorname": "Franziska",
+        "zusatz": "",
+        "sprechbeitraege": "98"
+    },
+    {
+        "name": "Schubert",
+        "vorname": "Ingo",
+        "zusatz": "OMR Dr.",
+        "sprechbeitraege": "2"
+    },
+    {
+        "name": "Schubert",
+        "vorname": "Volkmar",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "10"
+    },
+    {
+        "name": "Schulmeyer",
+        "vorname": "Joachim",
+        "zusatz": "",
+        "sprechbeitraege": "79"
+    },
+    {
+        "name": "Schultze",
+        "vorname": "Mirko",
+        "zusatz": "",
+        "sprechbeitraege": "31"
+    },
+    {
+        "name": "Schulz",
+        "vorname": "Regina",
+        "zusatz": "",
+        "sprechbeitraege": "202"
+    },
+    {
+        "name": "Schurig",
+        "vorname": "Andreas",
+        "zusatz": "",
+        "sprechbeitraege": "2"
+    },
+    {
+        "name": "Schüßler",
+        "vorname": "Gitta",
+        "zusatz": "",
+        "sprechbeitraege": "247"
+    },
+    {
+        "name": "Schütz",
+        "vorname": "Kristin",
+        "zusatz": "",
+        "sprechbeitraege": "280"
+    },
+    {
+        "name": "Schwarz",
+        "vorname": "Gisela",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "554"
+    },
+    {
+        "name": "Schwietzer",
+        "vorname": "Doreen",
+        "zusatz": "",
+        "sprechbeitraege": "13"
+    },
+    {
+        "name": "Seidel",
+        "vorname": "Heide",
+        "zusatz": "",
+        "sprechbeitraege": "76"
+    },
+    {
+        "name": "Seidel",
+        "vorname": "Rolf",
+        "zusatz": "",
+        "sprechbeitraege": "119"
+    },
+    {
+        "name": "Simon",
+        "vorname": "Bettina",
+        "zusatz": "",
+        "sprechbeitraege": "219"
+    },
+    {
+        "name": "Sodann",
+        "vorname": "Franz",
+        "zusatz": "",
+        "sprechbeitraege": "46"
+    },
+    {
+        "name": "Spangenberg",
+        "vorname": "Detlev",
+        "zusatz": "",
+        "sprechbeitraege": "43"
+    },
+    {
+        "name": "Spantig",
+        "vorname": "Clemens",
+        "zusatz": "",
+        "sprechbeitraege": "7"
+    },
+    {
+        "name": "Springer",
+        "vorname": "Ines",
+        "zusatz": "",
+        "sprechbeitraege": "39"
+    },
+    {
+        "name": "Sprotte",
+        "vorname": "Paul",
+        "zusatz": "",
+        "sprechbeitraege": "8"
+    },
+    {
+        "name": "Stachorra",
+        "vorname": "Ruth",
+        "zusatz": "",
+        "sprechbeitraege": "92"
+    },
+    {
+        "name": "Stange",
+        "vorname": "Enrico",
+        "zusatz": "",
+        "sprechbeitraege": "226"
+    },
+    {
+        "name": "Stange",
+        "vorname": "Eva-Maria",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "311"
+    },
+    {
+        "name": "Starke",
+        "vorname": "Lothar",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "21"
+    },
+    {
+        "name": "Steinbach",
+        "vorname": "Christian",
+        "zusatz": "",
+        "sprechbeitraege": "8"
+    },
+    {
+        "name": "Steinert",
+        "vorname": "Erhard",
+        "zusatz": "",
+        "sprechbeitraege": "21"
+    },
+    {
+        "name": "Stempell",
+        "vorname": "Kurt",
+        "zusatz": "",
+        "sprechbeitraege": "96"
+    },
+    {
+        "name": "Stetter",
+        "vorname": "Inge",
+        "zusatz": "",
+        "sprechbeitraege": "84"
+    },
+    {
+        "name": "Storr",
+        "vorname": "Andreas",
+        "zusatz": "",
+        "sprechbeitraege": "164"
+    },
+    {
+        "name": "Strempel",
+        "vorname": "Karin",
+        "zusatz": "",
+        "sprechbeitraege": "65"
+    },
+    {
+        "name": "Süß",
+        "vorname": "Wolfgang",
+        "zusatz": "OPhR Prof. Dr. sc. nat.",
+        "sprechbeitraege": "28"
+    },
+    {
+        "name": "Szymanski",
+        "vorname": "Holger",
+        "zusatz": "",
+        "sprechbeitraege": "16"
+    },
+    {
+        "name": "Tändler-Walenta",
+        "vorname": "Marika",
+        "zusatz": "",
+        "sprechbeitraege": "27"
+    },
+    {
+        "name": "Taubert",
+        "vorname": "Doreen",
+        "zusatz": "",
+        "sprechbeitraege": "1"
+    },
+    {
+        "name": "Teichmann",
+        "vorname": "Ivo",
+        "zusatz": "",
+        "sprechbeitraege": "20"
+    },
+    {
+        "name": "Tempel",
+        "vorname": "Dieter",
+        "zusatz": "",
+        "sprechbeitraege": "69"
+    },
+    {
+        "name": "Teubner",
+        "vorname": "Gottfried",
+        "zusatz": "",
+        "sprechbeitraege": "20"
+    },
+    {
+        "name": "Thomaschk",
+        "vorname": "Ludwig",
+        "zusatz": "",
+        "sprechbeitraege": "7"
+    },
+    {
+        "name": "Thumm",
+        "vorname": "Thomas",
+        "zusatz": "",
+        "sprechbeitraege": "17"
+    },
+    {
+        "name": "Thürmer",
+        "vorname": "Robert",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "21"
+    },
+    {
+        "name": "Tiedt",
+        "vorname": "Friedemann",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "37"
+    },
+    {
+        "name": "Tiefensee",
+        "vorname": "Volker",
+        "zusatz": "",
+        "sprechbeitraege": "9"
+    },
+    {
+        "name": "Tillich",
+        "vorname": "Stanislaw",
+        "zusatz": "",
+        "sprechbeitraege": "211"
+    },
+    {
+        "name": "Tippach",
+        "vorname": "Steffen",
+        "zusatz": "",
+        "sprechbeitraege": "163"
+    },
+    {
+        "name": "Tippelt",
+        "vorname": "Nico",
+        "zusatz": "",
+        "sprechbeitraege": "53"
+    },
+    {
+        "name": "Tischendorf",
+        "vorname": "Klaus",
+        "zusatz": "",
+        "sprechbeitraege": "178"
+    },
+    {
+        "name": "Tröger",
+        "vorname": "Gottfried",
+        "zusatz": "",
+        "sprechbeitraege": "7"
+    },
+    {
+        "name": "Uhlmann",
+        "vorname": "Ekkehard",
+        "zusatz": "",
+        "sprechbeitraege": "19"
+    },
+    {
+        "name": "Ulbig",
+        "vorname": "Markus",
+        "zusatz": "",
+        "sprechbeitraege": "406"
+    },
+    {
+        "name": "Ulbrich",
+        "vorname": "Roland",
+        "zusatz": "Walter Hermann",
+        "sprechbeitraege": "12"
+    },
+    {
+        "name": "Ulbricht",
+        "vorname": "Hartmut",
+        "zusatz": "",
+        "sprechbeitraege": "48"
+    },
+    {
+        "name": "Unland",
+        "vorname": "Georg",
+        "zusatz": "Prof.",
+        "sprechbeitraege": "34"
+    },
+    {
+        "name": "Unland",
+        "vorname": "Georg",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "163"
+    },
+    {
+        "name": "Urban",
+        "vorname": "Jörg",
+        "zusatz": "",
+        "sprechbeitraege": "196"
+    },
+    {
+        "name": "Ursu",
+        "vorname": "Octavian",
+        "zusatz": "",
+        "sprechbeitraege": "17"
+    },
+    {
+        "name": "Vaatz",
+        "vorname": "Arnold",
+        "zusatz": "",
+        "sprechbeitraege": "196"
+    },
+    {
+        "name": "Viehweger",
+        "vorname": "Axel",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "18"
+    },
+    {
+        "name": "Vieweg",
+        "vorname": "Jörg",
+        "zusatz": "",
+        "sprechbeitraege": "77"
+    },
+    {
+        "name": "Vogler",
+        "vorname": "Martin",
+        "zusatz": "",
+        "sprechbeitraege": "3"
+    },
+    {
+        "name": "Voigt",
+        "vorname": "Maika",
+        "zusatz": "",
+        "sprechbeitraege": "29"
+    },
+    {
+        "name": "Voigt",
+        "vorname": "Sören",
+        "zusatz": "",
+        "sprechbeitraege": "34"
+    },
+    {
+        "name": "Volkmer",
+        "vorname": "Marlies",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "350"
+    },
+    {
+        "name": "von Breitenbuch",
+        "vorname": "Georg-Ludwig",
+        "zusatz": "",
+        "sprechbeitraege": "23"
+    },
+    {
+        "name": "Vorjohann",
+        "vorname": "Hartmut",
+        "zusatz": "",
+        "sprechbeitraege": "17"
+    },
+    {
+        "name": "Wähner",
+        "vorname": "Ronny",
+        "zusatz": "",
+        "sprechbeitraege": "16"
+    },
+    {
+        "name": "Wappler",
+        "vorname": "Ingolf",
+        "zusatz": "",
+        "sprechbeitraege": "42"
+    },
+    {
+        "name": "Weber",
+        "vorname": "Christine",
+        "zusatz": "",
+        "sprechbeitraege": "164"
+    },
+    {
+        "name": "Weber",
+        "vorname": "Michael",
+        "zusatz": "",
+        "sprechbeitraege": "77"
+    },
+    {
+        "name": "Weber",
+        "vorname": "Peter",
+        "zusatz": "",
+        "sprechbeitraege": "8"
+    },
+    {
+        "name": "Weber",
+        "vorname": "Wolfgang",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "14"
+    },
+    {
+        "name": "Weckesser",
+        "vorname": "Ronald",
+        "zusatz": "",
+        "sprechbeitraege": "80"
+    },
+    {
+        "name": "Wehner",
+        "vorname": "Horst",
+        "zusatz": "",
+        "sprechbeitraege": "148"
+    },
+    {
+        "name": "Wehner",
+        "vorname": "Oliver",
+        "zusatz": "",
+        "sprechbeitraege": "48"
+    },
+    {
+        "name": "Wehnert",
+        "vorname": "Detlef",
+        "zusatz": "",
+        "sprechbeitraege": "288"
+    },
+    {
+        "name": "Weichert",
+        "vorname": "Michael",
+        "zusatz": "",
+        "sprechbeitraege": "276"
+    },
+    {
+        "name": "Weigand",
+        "vorname": "Rolf",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "96"
+    },
+    {
+        "name": "Weigel",
+        "vorname": "Eckhard",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "1"
+    },
+    {
+        "name": "Weihnert",
+        "vorname": "Margit",
+        "zusatz": "",
+        "sprechbeitraege": "323"
+    },
+    {
+        "name": "Weinhold",
+        "vorname": "Karl",
+        "zusatz": "",
+        "sprechbeitraege": "3"
+    },
+    {
+        "name": "Weise",
+        "vorname": "Karl",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "11"
+    },
+    {
+        "name": "Weiß",
+        "vorname": "Christine",
+        "zusatz": "",
+        "sprechbeitraege": "5"
+    },
+    {
+        "name": "Weiss",
+        "vorname": "Cornelius",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "129"
+    },
+    {
+        "name": "Wendt",
+        "vorname": "André",
+        "zusatz": "",
+        "sprechbeitraege": "146"
+    },
+    {
+        "name": "Werner",
+        "vorname": "Heike",
+        "zusatz": "",
+        "sprechbeitraege": "143"
+    },
+    {
+        "name": "Werner",
+        "vorname": "Margit",
+        "zusatz": "",
+        "sprechbeitraege": "54"
+    },
+    {
+        "name": "Wiesner",
+        "vorname": "Alexander",
+        "zusatz": "",
+        "sprechbeitraege": "15"
+    },
+    {
+        "name": "Wild",
+        "vorname": "Gunter",
+        "zusatz": "",
+        "sprechbeitraege": "69"
+    },
+    {
+        "name": "Wildführ",
+        "vorname": "Dietmar",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "17"
+    },
+    {
+        "name": "Wilke",
+        "vorname": "Karin",
+        "zusatz": "",
+        "sprechbeitraege": "87"
+    },
+    {
+        "name": "Windisch",
+        "vorname": "Uta",
+        "zusatz": "",
+        "sprechbeitraege": "136"
+    },
+    {
+        "name": "Winkler",
+        "vorname": "Hermann",
+        "zusatz": "",
+        "sprechbeitraege": "81"
+    },
+    {
+        "name": "Winkler",
+        "vorname": "Volkmar",
+        "zusatz": "",
+        "sprechbeitraege": "88"
+    },
+    {
+        "name": "Wippel",
+        "vorname": "Sebastian",
+        "zusatz": "",
+        "sprechbeitraege": "137"
+    },
+    {
+        "name": "Wirth",
+        "vorname": "Gabriele",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "51"
+    },
+    {
+        "name": "Wissel",
+        "vorname": "Patricia",
+        "zusatz": "",
+        "sprechbeitraege": "6"
+    },
+    {
+        "name": "Wittig",
+        "vorname": "Barbara",
+        "zusatz": "",
+        "sprechbeitraege": "63"
+    },
+    {
+        "name": "Witzschel",
+        "vorname": "Eberhard",
+        "zusatz": "",
+        "sprechbeitraege": "80"
+    },
+    {
+        "name": "Wöller",
+        "vorname": "Roland",
+        "zusatz": "Dr.",
+        "sprechbeitraege": "54"
+    },
+    {
+        "name": "Wöller",
+        "vorname": "Roland",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "8"
+    },
+    {
+        "name": "Wöller",
+        "vorname": "Roland",
+        "zusatz": "Prof. Dr.",
+        "sprechbeitraege": "306"
+    },
+    {
+        "name": "Wünsche",
+        "vorname": "Eva-Maria",
+        "zusatz": "",
+        "sprechbeitraege": "26"
+    },
+    {
+        "name": "Wurlitzer",
+        "vorname": "Uwe",
+        "zusatz": "",
+        "sprechbeitraege": "112"
+    },
+    {
+        "name": "Zais",
+        "vorname": "Karl-Friedrich",
+        "zusatz": "",
+        "sprechbeitraege": "137"
+    },
+    {
+        "name": "Zais",
+        "vorname": "Petra",
+        "zusatz": "",
+        "sprechbeitraege": "131"
+    },
+    {
+        "name": "Zastrow",
+        "vorname": "Holger",
+        "zusatz": "",
+        "sprechbeitraege": "182"
+    },
+    {
+        "name": "Zickler",
+        "vorname": "Hans-Jürgen",
+        "zusatz": "",
+        "sprechbeitraege": "7"
+    },
+    {
+        "name": "Zimmermann",
+        "vorname": "Ingo",
+        "zusatz": "",
+        "sprechbeitraege": "14"
+    },
+    {
+        "name": "Zschoche",
+        "vorname": "Brigitte",
+        "zusatz": "",
+        "sprechbeitraege": "386"
+    },
+    {
+        "name": "Zschocke",
+        "vorname": "Volkmar",
+        "zusatz": "",
+        "sprechbeitraege": "195"
+    },
+    {
+        "name": "Zwerg",
+        "vorname": "Jan-Oliver",
+        "zusatz": "",
+        "sprechbeitraege": "27"
+    }
+]
