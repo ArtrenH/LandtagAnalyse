@@ -16,29 +16,23 @@ def extract_sprecherdaten_name(filename: str) -> str:
     sprecher_name = [json_file[index]["name"] for index in range(len(json_file))]
     return sprecher_name
 
-def extract_sprecherdaten_zusatz(filename):
+# WHAT DOES THIS DO?
+def extract_sprecherdaten_zusatz(filename: str) -> list:
     with open(filename) as f:
         json_file = json.load(f)
     sprecher_zusatz = [json_file[index]["zusatz"] for index in range(len(json_file))]
     return sprecher_zusatz
 
-def if_string_extract_sprechbeitrag(sprecher_name, sprecher_zusatz) -> bool:
+def if_string_extract_sprechbeitrag(sprecher_name: list[str], sprecher_zusatz: list[str]) -> bool:
     with open("data/wahlperiode_1_inhalt/wahlperiode_1_inhalt_2.txt") as doc:
         datafile = doc.readlines()
     for line in datafile:
         for name in sprecher_name:
-                for zusatz in sprecher_zusatz:
-                    if str(zusatz + name) in line:
-                        print(line)
-                        return True
+            for zusatz in sprecher_zusatz:
+                if str(zusatz + name) in line:
+                    print(line)
+                    return True
     return False
-
-
-def extract_top_from_vector(feature_names, sorted_items, num: int=10) -> dict:
-    # get the feature names and tf-idf score of top n items
-    return dict([
-        [round(score, 3), feature_names[idx]
-    ] for score, idx in sorted_items[:num]])
 
 # BENUTZT?
 def extract_zwischenfragen(path, file, string_ges) -> None:

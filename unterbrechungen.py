@@ -46,7 +46,7 @@ def extract_unterbrechungen(partei: str="CDU", wahlperiode: int=7, ignore_beifal
                 parteiunterbrechungen = [element for element in parteiunterbrechungen if "Saal" not in element]
             partei_dict[extract_sitzungsnummer(file)] = len(parteiunterbrechungen)
     os.makedirs(f"data/Unterbrechungen{ignore_beifall*'_ohne_Beifall'}/Wahlperiode_{wahlperiode}", exist_ok=True)
-    with open(f"data/Unterbrechungen{ignore_beifall*'_ohne_Beifall'}/Wahlperiode_{wahlperiode}/{partei}.csv", 'w+') as f:
+    with open(f"data/Unterbrechungen{ignore_beifall*'_ohne_Beifall'}/Wahlperiode_{wahlperiode}/{partei}.json", 'w+') as f:
         json.dump(partei_dict, f, indent=4)
 
 def extract_all_unterbrechungen() -> None:

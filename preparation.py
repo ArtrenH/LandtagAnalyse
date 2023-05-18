@@ -26,7 +26,7 @@ class JsonHandler():
     def extract_sitzungsnummer_json(self) -> str:
         return self.name.split("_")[2]
 
-def extract_contents():
+def extract_contents() -> None:
     os.makedirs("raw_data/content", exist_ok=True)
     for wahlperiode in [f"wahlperiode-{i}" for i in range(1, 7+1)]:
         for file in os.listdir(f"raw_data/json/{wahlperiode}"):
@@ -37,7 +37,7 @@ def extract_contents():
 
 # DATA CLEANING -> remove stopwords and punctuation
 
-def clean_data(resumable=True) -> None:
+def clean_data(resumable: bool=True) -> None:
     os.makedirs("data/cleaned_content", exist_ok=True)
     stopwords_liste = ["staatsregierung", "landtag", "fuer", "koennen", "koennte", "ueber", "waehrend", "wuerde", "wuerden", "herr", "frau", "wer", "ueber", "heute", "ja", "nein", "beifall", "praesident", "vizepraesident", "linke", "gruene", "fdp", "cdu", "spd", "pds", "afd", "linksfraktion", "buendnisgruenen", "buendnisgruene", "damen", "herren", "bitte", "schon", "prof", "dr", "staatsminister", "januar", "februar", "maerz", "april", "mai", "juni", "juli", "august", "september", "oktober", "november", "dezember", "fraktion", "antrag", "gesetz", "drucksache"]
 
