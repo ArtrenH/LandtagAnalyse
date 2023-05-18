@@ -22,7 +22,6 @@ pip3 install -r requirements.txt
 ```
 - exexute the preperation files:
 ```sh
-python3 utils.py
 python3 preparation.py
 ```
 - now execute the remaining files to replicate the data:

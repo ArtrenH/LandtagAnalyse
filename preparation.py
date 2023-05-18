@@ -1,8 +1,34 @@
 import os
+import json
 import re
 from tqdm import tqdm
 from nltk.corpus import stopwords
 import time
+
+# extraction of actual content
+class JsonHandler():
+    def __init__(self, filepath):
+        self.filepath = filepath
+        self.name = self.filepath.split("/")[-1]
+
+    def get_content(self) -> str:
+        with open(self.filepath) as f:
+            return json.load(f)["content"]
+
+    def extract_wahlperiode_json(self) -> str:
+        return self.name.split("_")[0]
+    
+    def extract_sitzungsnummer_json(self) -> str:
+        return self.name.split("_")[2]
+
+def extract_contents():
+    os.makedirs("raw_data/content", exist_ok=True)
+    for wahlperiode in [f"wahlperiode-{i}" for i in range(1, 7+1)]:
+        for file in os.listdir(f"raw_data/json/{wahlperiode}"):
+            handler = JsonHandler(f"raw_data/json/{wahlperiode}/{file}")
+            with open(f"raw_data/content/inhalt_wahlperiode_{handler.extract_wahlperiode_json()}_{handler.extract_sitzungsnummer_json()}_.txt", "w+") as f:
+                f.write(handler.get_content())
+
 
 # DATA CLEANING -> remove stopwords and punctuation
 
@@ -29,5 +55,6 @@ def clean_data() -> None:
 
 
 if __name__ == "__main__":
+    extract_contents()
     clean_data()
 
