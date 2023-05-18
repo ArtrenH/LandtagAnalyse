@@ -1,3 +1,4 @@
+import os
 import json
 from tqdm import tqdm
 from utils import extract_wahlperiode, extract_sitzungsnummer
@@ -52,6 +53,7 @@ def extract_keywords_topic(topic_name: str, keywords_file: str) -> None:
 
 
 def extract_keywords_all() -> None:
+    os.makedirs("data/topic_keywords_stemmed", exist_ok=True)
     for topic in tqdm(topics):
         extract_keywords_topic(topic, "data/keywords_wahlperiode/keywords_stemmed_100.json")
 
