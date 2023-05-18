@@ -1,7 +1,7 @@
 import json
 import os
 from tqdm import tqdm
-from utils import sort_coo, extract_top_from_vector
+from utils import extract_top_from_vector
 
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import CountVectorizer

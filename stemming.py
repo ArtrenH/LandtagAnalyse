@@ -21,7 +21,7 @@ def stemming(words: list[str]) -> list[str]:
 
 def stem_all() -> None:
     os.makedirs(f"data/cleaned_content_stemmed", exist_ok=True)
-    for file in tqdm([elem for elem in os.listdir("data/cleaned_content/") if elem.startswith("c")]):
+    for file in tqdm([elem for elem in os.listdir("data/cleaned_content/") if elem.startswith("i")]):
         content = tokenizing("data/cleaned_content/", file)
         content = stemming(content)
         content = ' '.join(content)

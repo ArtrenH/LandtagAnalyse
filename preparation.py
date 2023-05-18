@@ -2,8 +2,13 @@ import os
 import json
 import re
 from tqdm import tqdm
+import nltk
 from nltk.corpus import stopwords
 import time
+
+def init_nltk():
+    nltk.download('stopwords')
+    nltk.download('punkt')
 
 # extraction of actual content
 class JsonHandler():
@@ -57,6 +62,8 @@ def clean_data(resumable=True) -> None:
 
 
 if __name__ == "__main__":
+    print("initialising nltk data ...")
+    init_nltk()
     print("extracting contents...")
     extract_contents()
     print("cleaning data...")
