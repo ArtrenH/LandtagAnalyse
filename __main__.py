@@ -1,5 +1,4 @@
-from utils import extract_contents
-from preparation import clean_data
+from preparation import extract_contents, clean_data
 from stemming import stem_all
 
 

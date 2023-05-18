@@ -32,11 +32,13 @@ def extract_contents():
 
 # DATA CLEANING -> remove stopwords and punctuation
 
-def clean_data() -> None:
+def clean_data(resumable=True) -> None:
     os.makedirs("data/cleaned_content", exist_ok=True)
     stopwords_liste = ["staatsregierung", "landtag", "fuer", "koennen", "koennte", "ueber", "waehrend", "wuerde", "wuerden", "herr", "frau", "wer", "ueber", "heute", "ja", "nein", "beifall", "praesident", "vizepraesident", "linke", "gruene", "fdp", "cdu", "spd", "pds", "afd", "linksfraktion", "buendnisgruenen", "buendnisgruene", "damen", "herren", "bitte", "schon", "prof", "dr", "staatsminister", "januar", "februar", "maerz", "april", "mai", "juni", "juli", "august", "september", "oktober", "november", "dezember", "fraktion", "antrag", "gesetz", "drucksache"]
 
     for element in tqdm(os.listdir("raw_data/content")):
+        if resumable and os.path.exists(f"data/cleaned_content/{element}"):
+            continue
         with open(f"raw_data/content/{element}", 'r', encoding='utf-8', errors='ignore') as file:
             content = file.read()
         t = time.perf_counter()
@@ -55,6 +57,8 @@ def clean_data() -> None:
 
 
 if __name__ == "__main__":
+    print("extracting contents...")
     extract_contents()
+    print("cleaning data...")
     clean_data()
 
