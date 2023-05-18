@@ -21,8 +21,8 @@ def clean_data() -> None:
         content = content.lower().split()
         content = [word for word in content if not word.isdigit()]
         # next 2 lines are sloooow
-        content = [word for word in content if word not in stopwords.words('german')]
         content = [word for word in content if word not in stopwords_liste]
+        content = [word for word in content if word not in stopwords.words('german')]
         content = ' '.join(content)
         with open(f"data/cleaned_content/{element}", "w+") as f:
             f.write(content)
