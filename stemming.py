@@ -19,9 +19,11 @@ def stemming(words: list[str]) -> list[str]:
         stemmed_words.append(sw)
     return stemmed_words             
 
-def stem_all() -> None:
+def stem_all(resumable: bool=True) -> None:
     os.makedirs(f"data/cleaned_content_stemmed", exist_ok=True)
     for file in tqdm([elem for elem in os.listdir("data/cleaned_content/") if elem.startswith("i")]):
+        if resumable and os.path.exists(f"data/cleaned_content_stemmed/{file}"):
+            continue
         content = tokenizing("data/cleaned_content/", file)
         content = stemming(content)
         content = ' '.join(content)
