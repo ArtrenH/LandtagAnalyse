@@ -14,7 +14,7 @@ def sort_coo(coo_matrix):
 def extract_top_from_vector(feature_names, sorted_items, num: int=10) -> dict:
     # get the feature names and tf-idf score of top n items
     return dict([
-        [round(score, 3), feature_names[idx]
+        [feature_names[idx], round(score, 3)
     ] for idx, score in sorted_items[:num]])
 
 

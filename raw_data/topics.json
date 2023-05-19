@@ -1,0 +1,19 @@
+{
+    "klima": ["klima", "umweltkatastroph", "emission", "erneuerbar", "energiewende", "co2", "kohlenstoffdioxid", "methan", "treibhausgase"],
+    "klimaschutz": ["klimaschutz"],
+    "klima_kohle": ["braunkohle"],
+    "wissenschaft": ["wissenschaft", "forschung", "hochschule", "universitaet"],
+    "migration": ["fluechtl", "migration", "asyl", "schutzsuch", "abschieb"],
+    "digitalisierung": ["digitaliserung", "computer", "internet", "datensicherheit"],
+    "extremismus": ["rechtsextrem"],
+    "corona": ["corona", "virus", "pandemie", "fallzahlen"],
+    "bildung": {
+        "begriffe": ["bildung", "pisa", "gymnasium", "mittelschul", "lehrer", "schueler", "lehrkraft"],
+        "ausschluss_begriffe": ["ausbildung", "berufsbildung"]
+    },
+    "inklusion": {
+        "begriffe": ["inklusion", "behinderung", "beeintraechtigung", "teilhab", "brk", "behindertenrechtskonvention"],
+        "ausschluss_begriffe": ["brkg"]
+    },
+    "kommunales": ["miete", "sozialwohnungen"]
+}
